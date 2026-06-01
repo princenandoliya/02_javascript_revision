@@ -35,4 +35,8 @@ console.log("last indexof",all.lastIndexOf("i"))
 console.log("specific index find",all.indexOf("i",2))
 
 
+//length returns
+
+console.log("length",all.length)
+
 
